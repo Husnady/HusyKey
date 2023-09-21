@@ -1,2 +1,2 @@
 # HusyKey
-No yes
+learn net
